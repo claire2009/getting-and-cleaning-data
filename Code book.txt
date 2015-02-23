@@ -1,0 +1,12 @@
+Code book
+
+The code is written in R.
+
+Variable "train" contains the subject used in group train.
+Variable "test" contains the subject used in group test.
+
+Variable activity contains 6 levels which are "WALKING","WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING".
+
+The average of each variable is calculated for each subject and each activity. 
+The final clean tidy data is saved in galaxyinfo.txt. 
+
